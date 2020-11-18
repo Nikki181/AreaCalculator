@@ -1,0 +1,8 @@
+rectangle 3 4
+square 5
+triangle 5 3
+circle 6
+circle -2
+rectangle 5 0
+rectangle 0 5
+rectangle 0 0 

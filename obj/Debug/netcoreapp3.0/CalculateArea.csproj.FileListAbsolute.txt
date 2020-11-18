@@ -1,0 +1,11 @@
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.exe
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.deps.json
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.runtimeconfig.json
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.runtimeconfig.dev.json
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.dll
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\bin\Debug\netcoreapp3.0\CalculateArea.pdb
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\obj\Debug\netcoreapp3.0\CalculateArea.csprojAssemblyReference.cache
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\obj\Debug\netcoreapp3.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\obj\Debug\netcoreapp3.0\CalculateArea.AssemblyInfo.cs
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\obj\Debug\netcoreapp3.0\CalculateArea.dll
+C:\Users\nikki\Desktop\Coding Test\CalculateArea\obj\Debug\netcoreapp3.0\CalculateArea.pdb
